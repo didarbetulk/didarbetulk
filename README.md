@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/inwww.linkedin.com/in/didarbetulkantarci" target="_blank">
+  <a href="https://www.linkedin.com/in/didarbetulkantarci/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/[@didarbetulk](https://medium.com/@didarbetul)" target="_blank">
+  <a href="https://medium.com/@didarbetul" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </p>
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠 Languages and Tools
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
@@ -35,7 +36,6 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
-
 
 ---
 
