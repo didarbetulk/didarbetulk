@@ -21,3 +21,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didarbetulk/didarbetulk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/didarbetulk/didarbetulk/output/github-contribution-grid-snake.svg">
 </picture>
+<p><br></p>
+<p align="center"> Thanks for visiting! </p>
